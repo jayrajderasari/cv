@@ -52,19 +52,17 @@ body {
     background-color: #679b9b;
     padding: 20px 0;
   }
-  .footer-text{
+  .jerry{
     width: 50%;
     margin: auto;
-  }
-  .kutch{
-    height: 270px; width: 400px;
-    border-radius:30px;
   }
   .footer-link {
     text-decoration: none;
     color: #000000;
-    width: 50%;
-    margin: auto;
+}
+  .kutch{
+    height: 270px; width: 400px;
+    border-radius:30px;
   }
   .pp {
     height: 250px;
