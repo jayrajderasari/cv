@@ -63,6 +63,8 @@ body {
   .footer-link {
     text-decoration: none;
     color: #000000;
+    width: 50%;
+    margin: auto;
   }
   .pp {
     height: 250px;
