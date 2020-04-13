@@ -30,6 +30,9 @@ body {
     color: #11999e;
     font-family: "Montserrat-bold", sans-serif;
   }
+  .hello{
+    margin-top: 0px; 
+  }
   a {
     color: #11999e;
   }
@@ -49,14 +52,23 @@ body {
     background-color: #679b9b;
     padding: 20px 0;
   }
+  .footer-text{
+    width: 50%;
+    margin: auto;
+  }
+  .kutch{
+    height: 270px; width: 400px;
+    border-radius:30px;
+  }
   .footer-link {
     text-decoration: none;
     color: #000000;
   }
   .pp {
-    width: 450px;
-    height: 280px;
-    padding-top: 50px;
+    height: 250px;
+    width: 250px;
+    padding: 30px;
+    border-radius: 50%;
   }
   hr {
     border: dotted;
@@ -88,6 +100,7 @@ body {
   .sci-fair {
     height: 300px;
     width: 400px;
+    border-radius:30px; 
   }
   
   
@@ -137,4 +150,8 @@ body {
   }
 .text{
     line-height: 1.5;
+}
+.contact-me{
+  width:50%;
+  margin: auto;
 }
